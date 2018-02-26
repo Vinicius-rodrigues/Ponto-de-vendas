@@ -1,4 +1,6 @@
-package pdv;
+package pdv.controller;
+
+
 
 import java.net.URL;
 import java.util.ResourceBundle;
@@ -11,7 +13,7 @@ import javafx.scene.control.MenuItem;
  *
  * @author vinicius
  */
-public class FXMLDocumentController implements Initializable {
+public class TelaPrincipalController implements Initializable {
     
     @FXML
     private Menu menuCadastro; 
